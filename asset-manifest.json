@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/samuelemornatta.github.io/static/css/main.49defa22.css",
-    "main.js": "/samuelemornatta.github.io/static/js/main.d406a598.js",
-    "static/js/787.a2cb61a6.chunk.js": "/samuelemornatta.github.io/static/js/787.a2cb61a6.chunk.js",
-    "index.html": "/samuelemornatta.github.io/index.html",
-    "main.49defa22.css.map": "/samuelemornatta.github.io/static/css/main.49defa22.css.map",
-    "main.d406a598.js.map": "/samuelemornatta.github.io/static/js/main.d406a598.js.map",
-    "787.a2cb61a6.chunk.js.map": "/samuelemornatta.github.io/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/static/css/main.49defa22.css",
+    "main.js": "/static/js/main.07ffbc74.js",
+    "static/js/787.a2cb61a6.chunk.js": "/static/js/787.a2cb61a6.chunk.js",
+    "index.html": "/index.html",
+    "main.49defa22.css.map": "/static/css/main.49defa22.css.map",
+    "main.07ffbc74.js.map": "/static/js/main.07ffbc74.js.map",
+    "787.a2cb61a6.chunk.js.map": "/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49defa22.css",
-    "static/js/main.d406a598.js"
+    "static/js/main.07ffbc74.js"
   ]
 }
